@@ -1,0 +1,5 @@
+.heading{text-align: center; font-size: 50px;}
+.friends{display: flex;
+    justify-content: center;
+align-items: center;}
+h2{color: lawngreen; font-size:45px;}
